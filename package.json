@@ -1,0 +1,21 @@
+{
+  "name": "flat-flags",
+  "version": "1.0.0",
+  "description": "Flat CSS Flags",
+  "scripts": {
+    "start": "sass --watch scss:css & http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guusli/flat-flags.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guusli/flat-flags/issues"
+  },
+  "homepage": "https://github.com/guusli/flat-flags#readme",
+  "dependencies": {
+    "node-sass": "^4.5.3"
+  }
+}
